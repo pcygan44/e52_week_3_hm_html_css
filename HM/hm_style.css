@@ -35,3 +35,18 @@ div#News {
     height: 60px;
  
 }
+
+div#right_section{
+    text-align: right;
+    /* float:left; */
+    width:300px;
+}
+div#Login{
+    text-align: left;
+    /* float:left; */
+    width:300px;
+}
+div#"top_sections"{
+    overflow:hidden;
+    
+}
